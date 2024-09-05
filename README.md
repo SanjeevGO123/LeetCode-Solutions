@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -32,6 +33,7 @@
 | [0198-house-robber](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Greedy
