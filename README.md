@@ -40,6 +40,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
@@ -69,6 +70,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
