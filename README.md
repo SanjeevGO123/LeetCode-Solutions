@@ -28,9 +28,14 @@
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
