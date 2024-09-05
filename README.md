@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -97,6 +98,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
