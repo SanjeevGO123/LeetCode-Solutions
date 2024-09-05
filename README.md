@@ -48,4 +48,16 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Graph
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
