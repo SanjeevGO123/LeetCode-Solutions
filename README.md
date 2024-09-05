@@ -17,6 +17,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -126,6 +128,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Memoization
 |  |
