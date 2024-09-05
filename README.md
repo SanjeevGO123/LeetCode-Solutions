@@ -15,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -25,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
