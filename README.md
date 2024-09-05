@@ -69,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 ## String
 |  |
@@ -76,6 +77,7 @@
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -110,6 +112,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
