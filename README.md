@@ -16,6 +16,7 @@
 | [0031-next-permutation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -43,6 +44,7 @@
 | [0010-regular-expression-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Math
