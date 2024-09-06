@@ -1,6 +1,6 @@
 # LeetCode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SanjeevGO123?ext=activity)](https://leetcode.com/SanjeevGO123)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SanjeevGO123?ext=heatmap&height=500)](https://leetcode.com/SanjeevGO123)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SanjeevGO123?ext=heatmap&height=400)](https://leetcode.com/SanjeevGO123)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
