@@ -13,6 +13,7 @@
 | [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -225,6 +226,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0031-next-permutation) |
 ## Trie
 |  |
 | ------- |
