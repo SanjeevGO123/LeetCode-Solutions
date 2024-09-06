@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -177,6 +178,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
@@ -202,6 +204,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
