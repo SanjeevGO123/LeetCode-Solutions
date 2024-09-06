@@ -12,6 +12,7 @@
 | [0011-container-with-most-water](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -221,6 +222,7 @@
 | [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Trie
 |  |
 | ------- |
