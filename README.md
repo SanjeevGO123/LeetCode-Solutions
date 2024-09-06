@@ -108,6 +108,7 @@
 | [0013-roman-to-integer](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -217,4 +218,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
