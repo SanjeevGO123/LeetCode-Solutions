@@ -34,6 +34,7 @@
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -109,6 +110,7 @@
 | [0036-valid-sudoku](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1447-jump-game-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -176,6 +178,7 @@
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
