@@ -188,12 +188,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
