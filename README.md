@@ -26,6 +26,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
