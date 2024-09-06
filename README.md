@@ -139,6 +139,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2803-modify-graph-edge-weights](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -198,6 +199,7 @@
 | [0002-add-two-numbers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
