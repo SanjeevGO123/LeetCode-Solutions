@@ -35,6 +35,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
+| [1466-jump-game-v](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -71,6 +72,7 @@
 | [1170-shortest-common-supersequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1466-jump-game-v](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
+| [1466-jump-game-v](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
