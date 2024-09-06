@@ -33,6 +33,7 @@
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -173,6 +175,7 @@
 | [0547-number-of-provinces](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
