@@ -70,6 +70,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -142,6 +143,7 @@
 | [0115-distinct-subsequences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -258,6 +260,7 @@
 | [0027-remove-element](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
