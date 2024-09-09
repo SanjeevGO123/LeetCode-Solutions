@@ -23,6 +23,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -148,6 +149,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -217,6 +219,7 @@
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0542-01-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -290,6 +293,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
