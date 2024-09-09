@@ -20,6 +20,7 @@
 | [0055-jump-game](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -212,6 +214,7 @@
 | [0036-valid-sudoku](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0542-01-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
