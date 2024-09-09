@@ -22,6 +22,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
