@@ -290,6 +290,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
