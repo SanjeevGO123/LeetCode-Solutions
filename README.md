@@ -37,6 +37,7 @@
 | [0312-burst-balloons](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -114,6 +115,7 @@
 | [0062-unique-paths](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -167,6 +169,7 @@
 | [0205-isomorphic-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -257,6 +260,7 @@
 | [0015-3sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1466-jump-game-v](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
