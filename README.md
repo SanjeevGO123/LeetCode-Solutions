@@ -215,6 +215,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -348,11 +350,13 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Bit Manipulation
 |  |
