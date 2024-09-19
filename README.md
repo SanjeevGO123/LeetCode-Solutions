@@ -81,6 +81,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0312-burst-balloons) |
@@ -118,6 +119,7 @@
 | [0013-roman-to-integer](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
@@ -173,6 +175,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -265,6 +268,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -287,6 +291,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
 |  |
 | ------- |
