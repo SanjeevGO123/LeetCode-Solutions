@@ -175,6 +175,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -407,4 +409,12 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1203-print-in-order) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
