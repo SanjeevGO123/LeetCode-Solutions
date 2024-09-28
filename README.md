@@ -45,6 +45,7 @@
 | [0729-my-calendar-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
@@ -318,6 +319,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0725-split-linked-list-in-parts](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -443,6 +445,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -453,4 +456,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
