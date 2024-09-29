@@ -152,6 +152,7 @@
 | [0127-word-ladder](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0432-all-oone-data-structure](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1447-jump-game-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
@@ -318,6 +319,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0432-all-oone-data-structure](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -443,6 +445,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
@@ -460,4 +463,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
