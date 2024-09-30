@@ -53,6 +53,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1466-jump-game-v) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -373,6 +374,7 @@
 | [0020-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Merge Sort
 |  |
 | ------- |
@@ -449,6 +451,7 @@
 | [0729-my-calendar-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
