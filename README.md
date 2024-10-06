@@ -59,6 +59,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
@@ -206,6 +207,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -363,6 +365,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
