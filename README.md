@@ -122,6 +122,7 @@
 | [0135-candy](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -372,6 +374,7 @@
 | [0392-is-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
@@ -396,6 +399,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Merge Sort
 |  |
