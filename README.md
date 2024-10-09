@@ -122,6 +122,7 @@
 | [0135-candy](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
@@ -206,6 +207,7 @@
 | [0567-permutation-in-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -398,6 +400,7 @@
 | [0020-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
