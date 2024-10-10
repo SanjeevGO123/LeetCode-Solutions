@@ -47,6 +47,7 @@
 | [0733-flood-fill](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -401,6 +402,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -447,6 +449,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1002-maximum-width-ramp](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 ## Number Theory
 |  |
 | ------- |
