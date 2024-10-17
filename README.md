@@ -127,6 +127,7 @@
 | [0135-candy](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
@@ -147,6 +148,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
