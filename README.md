@@ -259,6 +259,7 @@
 | [2580-circular-sentence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
