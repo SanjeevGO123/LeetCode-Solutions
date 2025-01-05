@@ -78,6 +78,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -269,6 +270,7 @@
 | [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2465-shifting-letters-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -304,6 +306,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2465-shifting-letters-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Graph
 |  |
