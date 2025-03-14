@@ -53,6 +53,7 @@
 | [1036-rotting-oranges](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1428-jump-game-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
@@ -298,6 +299,7 @@
 | [0729-my-calendar-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
