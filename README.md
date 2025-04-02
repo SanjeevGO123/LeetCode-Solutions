@@ -97,6 +97,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2792-neighboring-bitwise-xor](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
