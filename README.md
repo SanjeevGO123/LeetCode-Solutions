@@ -70,6 +70,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -185,6 +186,7 @@
 | [0279-perfect-squares](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -523,6 +526,7 @@
 | [0078-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
@@ -587,6 +591,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -670,6 +675,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Queue
 |  |
