@@ -105,6 +105,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
