@@ -152,6 +152,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SanjeevGO123/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
